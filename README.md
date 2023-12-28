@@ -10,7 +10,7 @@
         • 🔭 I’m currently working on <strong>HR Management System</strong><br>
         • 🌱 I’m currently learning <strong>New technologies like SignalR & RGPC</strong><br>
         • 👯 I’m looking to collaborate on <strong>Ecommerce projects</strong><br>
-        • 👨‍💻 All of my projects are available at <a href="https://github.com/AbanoubEdward97">https://github.com/AbanoubEdward97</a><br>
+        • 👨‍💻 All of my projects are available at <a href="https://github.com/AbanoubEdward97">here</a><br>
         • 💬 Ask me about <strong>.NET Framework, Entity Framework, and problem-solving</strong><br>
         • 📫 How to reach me <strong>abanoub.edward97101@gmail.com</strong><br>
         • ⚡ Fun fact <strong>Turning Coffee to code!!</strong><br>
