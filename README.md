@@ -1,17 +1,18 @@
-![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=800&duration=2000&pause=1000&color=274421&background=BB642A00&center=true&vCenter=true&random=false&width=435&height=54&lines=Hi+%F0%9F%91%8B%2C+I'm+Abanoub+Edward;A+passionate+Software+developer+from+Egypt)](https://git.io/typing-svg)
+![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)
+<h1 align="center">Hi 👋, I'm Abanoub Edward</h1>
+<h3 align="center">Passionate Software developer from Egypt</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="abanoubedward97" /> </p>
+<p align="right"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="400px" alt="abanoubedward97" /> </p>
 
 - 🔭 I’m currently working on **HR Management System**
 
-- 🌱 I’m currently learning **New technologies like SignalR & RGPC**
+- 🌱 I’m currently learning **SignalR & RGPC**
 
 - 👯 I’m looking to collaborate on **Ecommerce projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbanoubEdward97](https://github.com/AbanoubEdward97)
 
-- 💬 Ask me about **.NET Framework , Entity FrameWork and problem Solving**
+- 💬 Ask me about **.NET Framework**
 
 - 📫 How to reach me **abanoub.edward97101@gmail.com**
 
