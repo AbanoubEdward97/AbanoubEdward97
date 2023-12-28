@@ -1,23 +1,26 @@
 ![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)
-<h1 align="center">Hi 👋, I'm Abanoub Edward</h1>
-<h3 align="center">Passionate Software developer from Egypt</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=800&size=30&duration=2000&pause=1000&color=372F8590&background=BB642A00&center=true&vCenter=true&random=false&width=435&height=54&lines=Hi+%F0%9F%91%8B%2C+I'm+Abanoub+Edward;Software+developer" alt="Typing SVG" /></a>
+</p>
 
-<p align="right"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="400px" alt="abanoubedward97" /> </p>
-
-- 🔭 I’m currently working on **HR Management System**
-
-- 🌱 I’m currently learning **SignalR & RGPC**
-
-- 👯 I’m looking to collaborate on **Ecommerce projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AbanoubEdward97](https://github.com/AbanoubEdward97)
-
-- 💬 Ask me about **.NET Framework**
-
-- 📫 How to reach me **abanoub.edward97101@gmail.com**
-
-- ⚡ Fun fact **Turning Coffee to code!!**
-
+ <table>
+  <tr>
+    <td>
+      <span>
+        • 🔭 I’m currently working on <strong>HR Management System</strong><br>
+        • 🌱 I’m currently learning <strong>New technologies like SignalR & RGPC</strong><br>
+        • 👯 I’m looking to collaborate on <strong>Ecommerce projects</strong><br>
+        • 👨‍💻 All of my projects are available at <a href="https://github.com/AbanoubEdward97">https://github.com/AbanoubEdward97</a><br>
+        • 💬 Ask me about <strong>.NET Framework, Entity Framework, and problem-solving</strong><br>
+        • 📫 How to reach me <strong>abanoub.edward97101@gmail.com</strong><br>
+        • ⚡ Fun fact <strong>Turning Coffee to code!!</strong><br>
+      </span>
+    </td>
+    <td align="right">
+      <img src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif" width="300px" alt="abanoubedward97" />
+    </td>
+  </tr>
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abanoub-edward-728636171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abanoub-edward-728636171/" height="30" width="40" /></a>
