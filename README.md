@@ -7,7 +7,7 @@
   <tr>
     <td>
       <span>
-        • 🔭 I’m currently working on <strong>HR Management System</strong><br>
+        • 🔭 I’m currently working on <strong>Angular Crud Tasks</strong><br>
         • 🌱 I’m currently learning <strong>New technologies like SignalR & RGPC</strong><br>
         • 👯 I’m looking to collaborate on <strong>Ecommerce projects</strong><br>
         • 👨‍💻 All of my projects are available at <a href="https://github.com/AbanoubEdward97">here</a><br>
