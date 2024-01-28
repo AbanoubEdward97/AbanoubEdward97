@@ -7,8 +7,8 @@
   <tr>
     <td>
       <span>
-        • 🔭 I’m currently working on <strong>Tasks Management System</strong><br>
-        • 🌱 I’m currently learning <strong>New technologies like SignalR & RGPC</strong><br>
+        • 🔭 I’m currently working on <strong>Tasks Management System & MCQ Exam project </strong><br>
+        • 🌱 I’m currently learning <strong>New technologies like SignalR & gRPC</strong><br>
         • 👯 I’m looking to collaborate on <strong>Ecommerce projects</strong><br>
         • 👨‍💻 All of my projects are available at <a href="https://github.com/AbanoubEdward97">here</a><br>
         • 💬 Ask me about <strong>.NET Framework, Entity Framework, and problem-solving</strong><br>
